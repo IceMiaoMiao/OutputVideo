@@ -1,0 +1,4 @@
+repository "7.18@ssl://qianhess@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
